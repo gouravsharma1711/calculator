@@ -1,4 +1,5 @@
 # calculator
+This repository features a simple calculator built with HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division. The clean UI is styled with CSS, while JavaScript handles the logic and operations. Perfect for learning fundamental web development skills.
 ## java script Code
 ```javascript
  let str = "";//view
